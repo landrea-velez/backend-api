@@ -1,3 +1,3 @@
 module.exports = {
-    HomeRoutes: require("./home.routes")
+  HomeRoutes: require("./home.routes"),
 };

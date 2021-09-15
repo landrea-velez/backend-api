@@ -1,3 +1,3 @@
 module.exports = {
-    HomeService: require("./home.service")
+  HomeService: require("./home.service"),
 };
